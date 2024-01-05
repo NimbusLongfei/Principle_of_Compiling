@@ -1,0 +1,8 @@
+int main(void){
+    int a = 5;
+    int b = 7;
+    int result = a + b * 2;
+    if (result == 19)
+        cout << result << endl;
+    return 0;
+}

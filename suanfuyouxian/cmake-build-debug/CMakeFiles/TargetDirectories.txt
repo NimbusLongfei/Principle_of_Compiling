@@ -1,0 +1,4 @@
+/Users/lilongfei/CLionProjects/compile/suanfuyouxian/cmake-build-debug/CMakeFiles/main.dir
+/Users/lilongfei/CLionProjects/compile/suanfuyouxian/cmake-build-debug/CMakeFiles/suanfuyouxian.dir
+/Users/lilongfei/CLionProjects/compile/suanfuyouxian/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lilongfei/CLionProjects/compile/suanfuyouxian/cmake-build-debug/CMakeFiles/rebuild_cache.dir

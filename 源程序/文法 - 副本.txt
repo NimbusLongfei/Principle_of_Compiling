@@ -1,0 +1,30 @@
+Q->S
+S->V=E
+E->E+T
+E->E-T
+E->T
+T->T*F
+T->T/F
+T->F
+F->(E)
+F->i
+V->i
+
+项目：S -> ·V=E、S -> V·=E、S -> V=·E、S -> V=E·
+          。。。
+
+TEST:
+
+T->B
+B->bD;Se
+D->D;d
+D->d
+S->s;S
+S->s
+
+1号产生式：T -> B
+2号产生式：B -> bD;Se
+3号产生式：D -> D;d
+4号产生式：D -> d
+5号产生式：S -> s;S
+6号产生式：S -> s

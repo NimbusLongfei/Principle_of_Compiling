@@ -1,0 +1,12 @@
+int main(void){
+    // This is a single-line comment
+    int x = 10; // Initialize x
+    /*
+    This is a
+    multi-line
+    comment
+    */
+    int y = 20; // Initialize y
+    return 0;
+}
+

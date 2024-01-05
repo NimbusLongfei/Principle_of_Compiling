@@ -1,0 +1,4 @@
+/Users/lilongfei/CLionProjects/compile/diguixiajiang2/cmake-build-debug/CMakeFiles/lab2digui.dir
+/Users/lilongfei/CLionProjects/compile/diguixiajiang2/cmake-build-debug/CMakeFiles/4_3.dir
+/Users/lilongfei/CLionProjects/compile/diguixiajiang2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lilongfei/CLionProjects/compile/diguixiajiang2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

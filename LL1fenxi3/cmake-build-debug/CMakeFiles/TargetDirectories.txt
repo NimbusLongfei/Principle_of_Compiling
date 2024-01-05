@@ -1,0 +1,3 @@
+/Users/lilongfei/CLionProjects/compile/LL1fenxi3/cmake-build-debug/CMakeFiles/mainlab2.dir
+/Users/lilongfei/CLionProjects/compile/LL1fenxi3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lilongfei/CLionProjects/compile/LL1fenxi3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
